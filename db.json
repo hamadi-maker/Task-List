@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "label": "Learn Angular 8",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "label": "Learn java EE",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "label": "Learn CSS",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "label": "Learn HTML",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
